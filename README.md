@@ -1,4 +1,4 @@
-
+[![Spotify](https://rosrivers.vercel.app/api/spotify)](https://open.spotify.com/user/daddyros)
 
 
 
