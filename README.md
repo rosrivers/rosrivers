@@ -1,5 +1,6 @@
-[![Spotify](https://rosrivers.vercel.app/api/spotify)](https://open.spotify.com/user/daddyros)
-
+<a href="https://vercel.com/rosrivers/now-playing-spotifyy/6gryZrzpkaCKox5iGyUmeb5jjhTi/now-playing?open">
+    <img src="https://now-playing-spotifyy-30clg074u-rosrivers.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 
 
