@@ -1,6 +1,4 @@
-<a href="https://vercel.com/rosrivers/now-playing-spotifyy/6gryZrzpkaCKox5iGyUmeb5jjhTi/now-playing?open">
-    <img src="https://now-playing-spotifyy-30clg074u-rosrivers.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=daddyros&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
 
 
 
