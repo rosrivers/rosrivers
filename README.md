@@ -22,9 +22,6 @@
 
 
 
-Currently listening to: 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=daddyros&cover_image=true&api?rainbow=true&theme=novatorem&bar_color=E03CEE&bar_color_cover=true&background_color=8b0000&border_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
 
 
 
